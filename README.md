@@ -1,6 +1,6 @@
 #  Shubham Kumar
 
-🛡️ **Senior Security Analyst | SOC • SIEM • Incident Response • Cloud Security**
+🛡️ **Senior Security Analyst | SOC • SIEM • Incident Response • Cloud Security**                                          📍 India | 💼 SOC / Blue Team / Cloud Security
 
 Experienced cybersecurity professional with **4.5+ years** in enterprise SOC operations, threat detection, and incident response. Hands-on with large-scale environments, focused on high-fidelity detections and rapid response.
 
@@ -25,7 +25,7 @@ MITRE ATT&CK • NIST • PCI-DSS • HITRUST
 
 ---
 
-📍 India | 💼 SOC / Blue Team / Cloud Security
+
 
 
 ## 🚀 Projects
