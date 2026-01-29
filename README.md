@@ -49,7 +49,20 @@ Built a cybersecurity lab to simulate a **honeypot environment** for capturing, 
 - Improved understanding of **honeypot configuration**, attacker behavior, and threat visualization.
 
   
- - 🔹  **Threat Intel Automation**
-  Threat Intelligence automation using n8n, BleepingComputer, and urlscan.io.
+
+## 🔹 Threat Intelligence Automation | n8n + OSINT
+
+### 🎯 Objective
+Built a threat intelligence automation to collect, enrich, and distribute cyber-threat data using **n8n**, **BleepingComputer**, and **urlscan.io**.
+
+### 🛠️ Details
+- Self-hosted **n8n** using Docker on Windows for workflow automation.
+- Pulled latest cybersecurity news from **BleepingComputer RSS feeds** on a scheduled interval.
+- Extracted URLs using JavaScript and scanned them with **urlscan.io**.
+- Enriched threat data with **domains, IPs, redirects, and risk indicators**.
+- Sent structured threat-intelligence reports via email alerts.
+
+### ✅ Outcome
+Gained hands-on experience in **threat intelligence ingestion**, **OSINT enrichment**, and **SOC automation**, while reducing manual investigation effort.
   
 
