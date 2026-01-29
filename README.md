@@ -26,3 +26,15 @@ MITRE ATT&CK • NIST • PCI-DSS • HITRUST
 ---
 
 📍 India | 💼 SOC / Blue Team / Cloud Security
+
+
+## 🚀 Projects
+
+- 🔹 **Splunk SIEM Home Lab**  
+  Log ingestion, alerting, dashboards, and incident simulation  
+  👉 
+  
+ - 🔹  **Threat Intel Automation**
+  Threat Intelligence automation using n8n, BleepingComputer, and urlscan.io.
+  👉 
+
