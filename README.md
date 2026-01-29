@@ -6,7 +6,7 @@ Experienced cybersecurity professional with **4.5+ years** in enterprise SOC ope
 
 ---
 
-## 🧠 Core Skills (Recruiter Glance)
+## 🧠 Core Skills 
 
 **SIEM / EDR / XDR**
 Microsoft Sentinel • Securonix • Microsoft Defender XDR • CrowdStrike Falcon • ArcSight
