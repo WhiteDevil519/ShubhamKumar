@@ -32,6 +32,7 @@ MITRE ATT&CK • NIST • PCI-DSS • HITRUST
 ## 🚀 Projects
 
 ## 🔹 SIEM & Honeypot | Microsoft Azure Sentinel Attack Map
+https://github.com/WhiteDevil519/Azure-Sentinel-SIEM-Honeypot-Lab.git
 
 ### 🎯 Objective
 Built a cybersecurity lab to simulate a **honeypot environment** for capturing, analyzing, and visualizing real-world cyberattacks using **Microsoft Azure Sentinel (SIEM)**.
