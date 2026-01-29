@@ -31,15 +31,22 @@ MITRE ATT&CK • NIST • PCI-DSS • HITRUST
 
 ## 🚀 Projects
 
-- 🔹 **SIEM & Honeypot | Microsoft Azure Sentinel Attack Map**
-  
-•	Objective: Created a cybersecurity lab to simulate a honeypot environment, capturing and analyzing cyberattacks with Microsoft Azure Sentinel.
-•	Details:
-o	Configured Azure resources including Virtual Machines, Log Analytics Workspaces, and Azure Sentinel for SIEM.
-o	Deployed a honeypot virtual machine to attract and log attacks, integrated with PowerShell scripts for log export and geolocation.
-o	Analyzed logs using Kusto Query Language (KQL) and visualized attack data on a world map dashboard.
+## 🔹 SIEM & Honeypot | Microsoft Azure Sentinel Attack Map
 
-•	Outcome: Gained hands-on experience with SIEM tools, advanced skills in Azure Sentinel and KQL, and practical knowledge in honeypot configuration and attack visualization.
+### 🎯 Objective
+Built a cybersecurity lab to simulate a **honeypot environment** for capturing, analyzing, and visualizing real-world cyberattacks using **Microsoft Azure Sentinel (SIEM)**.
+
+### 🛠️ Implementation Details
+- Configured **Azure Virtual Machines**, **Log Analytics Workspace**, and **Azure Sentinel** for centralized log collection and monitoring.
+- Deployed a **honeypot VM** to attract malicious traffic and capture attack telemetry.
+- Integrated **PowerShell scripts** for log enrichment and attacker geolocation.
+- Analyzed security events using **Kusto Query Language (KQL)**.
+- Created an **Attack Map dashboard** to visualize global attack sources in real time.
+
+### ✅ Outcome
+- Hands-on experience with **SIEM architecture and log ingestion pipelines**.
+- Strong practical exposure to **Azure Sentinel**, **KQL**, and security dashboards.
+- Improved understanding of **honeypot configuration**, attacker behavior, and threat visualization.
 
   
  - 🔹  **Threat Intel Automation**
